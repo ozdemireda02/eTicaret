@@ -8,5 +8,6 @@ Html,Css ve Javascript kullanılarak geliştirilmiştir.
 
 <h2> Çalışır Halinin Ekran Kaydı </h2>
 
-![](eticaret.gif)
+![](eTicaret.gif)
+
 
